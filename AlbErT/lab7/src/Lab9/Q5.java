@@ -21,7 +21,7 @@ public class Q5 {
         
         //b. Stack class
         Stack st = new Stack();
-        System.out.println("\nSTACK CLASS:\n");;
+        System.out.println("\nSTACK CLASS:\n");
         st.push(23); st.push(65); st.push(64); st.push(42); st.push(32);
         System.out.println("Stack Elements: "+st);
         System.out.println("Stack top element: "+st.peek());
